@@ -25,3 +25,6 @@ Divirta-se
 - [X] Exibir mensagem ao rodar o container
 - [X] Adicionar arquivo go para printar a mensagem
 - [X] Reduzir para menos de 2MB a imagem final
+
+# Link da imagem
+https://hub.docker.com/r/devguerreiro/challenge-dockergo
